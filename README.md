@@ -30,4 +30,4 @@ INSERT INTO cuenta VALUES (2,steve,0.0);
     | steve    | steve    |users  |
     | ben      | ben      |admin  |
     | cathy    | cathy    |guest  |
-    |----------|----------|-------|
+
